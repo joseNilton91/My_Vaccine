@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|c:\\project\\codefree\\dotnet_webapi_advanced\\myvaccinesln\\myvaccinewebapi\\repositories\\implements\\allergyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|solutionrelative:myvaccinewebapi\\repositories\\implements\\allergyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|c:\\project\\codefree\\dotnet_webapi_advanced\\myvaccinesln\\myvaccinewebapi\\repositories\\contracts\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|solutionrelative:myvaccinewebapi\\repositories\\contracts\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|c:\\project\\codefree\\dotnet_webapi_advanced\\myvaccinesln\\myvaccinewebapi\\repositories\\contracts\\iallergyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|solutionrelative:myvaccinewebapi\\repositories\\contracts\\iallergyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|c:\\project\\codefree\\dotnet_webapi_advanced\\myvaccinesln\\myvaccinewebapi\\repositories\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|solutionrelative:myvaccinewebapi\\repositories\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|c:\\project\\codefree\\dotnet_webapi_advanced\\myvaccinesln\\myvaccinewebapi\\configurations\\authconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|solutionrelative:myvaccinewebapi\\configurations\\authconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|c:\\project\\codefree\\dotnet_webapi_advanced\\myvaccinesln\\myvaccinewebapi\\models\\myvaccineappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|solutionrelative:myvaccinewebapi\\models\\myvaccineappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|c:\\project\\codefree\\dotnet_webapi_advanced\\myvaccinesln\\myvaccinewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|solutionrelative:myvaccinewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|c:\\project\\codefree\\dotnet_webapi_advanced\\myvaccinesln\\myvaccinewebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02B5E2-F45A-4831-AD30-F824D2791D2D}|MyVaccineWebApi\\MyVaccineWebApi.csproj|solutionrelative:myvaccinewebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllergyRepository.cs",
+              "DocumentMoniker": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Repositories\\Implements\\AllergyRepository.cs",
+              "RelativeDocumentMoniker": "MyVaccineWebApi\\Repositories\\Implements\\AllergyRepository.cs",
+              "ToolTip": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Repositories\\Implements\\AllergyRepository.cs",
+              "RelativeToolTip": "MyVaccineWebApi\\Repositories\\Implements\\AllergyRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:47:30.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Repositories\\Contracts\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "MyVaccineWebApi\\Repositories\\Contracts\\IBaseRepository.cs",
+              "ToolTip": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Repositories\\Contracts\\IBaseRepository.cs",
+              "RelativeToolTip": "MyVaccineWebApi\\Repositories\\Contracts\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:46:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAllergyRepository.cs",
+              "DocumentMoniker": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Repositories\\Contracts\\IAllergyRepository.cs",
+              "RelativeDocumentMoniker": "MyVaccineWebApi\\Repositories\\Contracts\\IAllergyRepository.cs",
+              "ToolTip": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Repositories\\Contracts\\IAllergyRepository.cs",
+              "RelativeToolTip": "MyVaccineWebApi\\Repositories\\Contracts\\IAllergyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:46:35.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Repositories\\Contracts\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MyVaccineWebApi\\Repositories\\Contracts\\IUserRepository.cs",
+              "ToolTip": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Repositories\\Contracts\\IUserRepository.cs",
+              "RelativeToolTip": "MyVaccineWebApi\\Repositories\\Contracts\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:46:30.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthConfigurations.cs",
+              "DocumentMoniker": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Configurations\\AuthConfigurations.cs",
+              "RelativeDocumentMoniker": "MyVaccineWebApi\\Configurations\\AuthConfigurations.cs",
+              "ToolTip": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Configurations\\AuthConfigurations.cs",
+              "RelativeToolTip": "MyVaccineWebApi\\Configurations\\AuthConfigurations.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:44:04.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyVaccineAppDbContext.cs",
+              "DocumentMoniker": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Models\\MyVaccineAppDbContext.cs",
+              "RelativeDocumentMoniker": "MyVaccineWebApi\\Models\\MyVaccineAppDbContext.cs",
+              "ToolTip": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Models\\MyVaccineAppDbContext.cs",
+              "RelativeToolTip": "MyVaccineWebApi\\Models\\MyVaccineAppDbContext.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:41:04.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyVaccineWebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Models\\User.cs",
+              "RelativeToolTip": "MyVaccineWebApi\\Models\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:40:23.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyVaccineWebApi\\Program.cs",
+              "ToolTip": "C:\\Project\\CodeFree\\dotnet_webApi_Advanced\\MyVaccineSln\\MyVaccineWebApi\\Program.cs",
+              "RelativeToolTip": "MyVaccineWebApi\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:25:09.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
